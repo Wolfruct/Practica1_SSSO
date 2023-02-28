@@ -1,0 +1,10 @@
+Caracol 10
+Pino 54
+Estrella 190
+Valle 75
+Coral 176
+Sol 90
+Luna 122
+Loto 44
+Camelia 13
+Malvacea 11
